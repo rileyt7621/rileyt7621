@@ -1,6 +1,6 @@
 # Thomas Riley
-Psychology Graduate | Aspiring Data Analyst | London, UK
-
+*Psychology Graduate | Aspiring Data Analyst | London, UK*
+  
 ## Projects
 - [Inventory Management Dashboard](https://github.com/rileyt7621/Data-Portfolio/tree/main/Inventory%20Management%20Project) - Example of a live dashboard displaying current inventory stock and value, and supply pipeline
 
@@ -28,6 +28,3 @@ Psychology Graduate | Aspiring Data Analyst | London, UK
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" "alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" "alt="php" width="45" height="45"/>
 </p>
-
-## Contact
-- Email: triley621@gmail.com

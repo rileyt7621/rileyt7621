@@ -1,6 +1,12 @@
 # Thomas Riley
 *Psychology Graduate | Aspiring Data Analyst | London, UK*
-  
+
+Over the course of my BSc Psychology degree I learnt correlational and experimental research design, diverse data-collection methods, and both quantitative and qualitative analysis using a variety of descriptive and inferential statistical techniques. Through a number of independent and collaborative research projects, these skills were developed, allowing me to answer complex research questions about human behaviour using data.
+
+This GitHub portfolio represents my transition from academic research to real-world impact. This page will mainly act as way for me to share my journey learning industry-standard tools (Power BI, Python and SQL) by showcasing projects that demonstrate my analytical skills and problem-solving mindset.
+
+
+
 ## Projects
 - [Inventory Management Dashboard](https://github.com/rileyt7621/Data-Portfolio/tree/main/Inventory%20Management%20Project) - Example of a live dashboard displaying current inventory stock and value, and supply pipeline
 
@@ -28,3 +34,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" "alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" "alt="php" width="45" height="45"/>
 </p>
+
+## Certifications
+Microsoft Power BI Data Analyst Professional Certificate
+
+Microsoft Certified: Power BI Data Analyst Associate (PL-300) *In Progress*

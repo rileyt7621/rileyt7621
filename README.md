@@ -17,6 +17,7 @@ This GitHub portfolio represents my transition from academic research to real-wo
 - [University Lab Projects](https://github.com/rileyt7621/Data-Portfolio/tree/main/University%20Lab%20Projects) - Displays knowledge of statistical modelling using multiple regression and other methods
 
 ## Tools I'm Currently Using
+- Azure Data Studio
 - Excel (Advanced Functions, Pivot Tables)
 - Power BI
 - R

@@ -21,7 +21,7 @@ This GitHub portfolio represents my transition from academic research to real-wo
 - Excel (Advanced Functions, Pivot Tables)
 - Power BI
 - R
-- SQL (MSSQL, MySQL)
+- SQL (MSSQL, MySQL, PostgreSQL)
 - SPSS
 
 ## Tools I'm Currently Learning

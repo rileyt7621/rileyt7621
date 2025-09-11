@@ -3,7 +3,7 @@
 
 Over the course of my BSc Psychology degree I learnt correlational and experimental research design, diverse data-collection methods, and both quantitative and qualitative analysis using a variety of descriptive and inferential statistical techniques. These skills were developed through a number of independent and collaborative research projects, allowing me to answer complex research questions about human behaviour using data.
 
-This GitHub portfolio represents my transition from academic research to real-world impact. This page will mainly act as way for me to share my journey learning industry-standard tools (such as Power BI, Python and SQL) by showcasing projects that demonstrate my analytical skills and problem-solving mindset.
+This GitHub portfolio represents my transition from academic research to the workplace. This page will mainly act as way for me to share my journey learning industry-standard tools (such as Power BI, Python and SQL) by showcasing projects that demonstrate my analytical skills and problem-solving mindset.
 
 
 

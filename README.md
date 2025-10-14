@@ -39,4 +39,4 @@ This GitHub portfolio represents my transition from academic research to the wor
 ## Certifications
 Microsoft Power BI Data Analyst Professional Certificate
 
-Microsoft Certified: Power BI Data Analyst Associate (PL-300) *In Progress*
+Microsoft Certified: Power BI Data Analyst Associate (PL-300) - *In Progress*
